@@ -12,6 +12,7 @@ namespace TeamCityDemo.Controllers
         {
             // Test command from VS.
             // Test command from VS 2.
+            int a = "3123";
 
             return View();
         }
