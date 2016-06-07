@@ -10,6 +10,8 @@ namespace TeamCityDemo.Controllers
     {
         public ActionResult Index()
         {
+            // Test command from VS.
+
             return View();
         }
 
