@@ -22,8 +22,8 @@ namespace TeamCityDemo.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            //Assert.IsNotNull(result);
-            Assert.IsNull(result);
+            Assert.IsNotNull(result);
+            //Assert.IsNull(result);
         }
 
         [TestMethod]
