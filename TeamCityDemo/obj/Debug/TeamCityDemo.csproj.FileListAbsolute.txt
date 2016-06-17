@@ -66,3 +66,4 @@ E:\Projects\Git\Repos\TestTeamCity\TeamCityDemo\bin\Microsoft.Owin.Security.Twit
 E:\Projects\Git\Repos\TestTeamCity\TeamCityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Projects\Git\Repos\TestTeamCity\TeamCityDemo\obj\Debug\TeamCityDemo.dll
 E:\Projects\Git\Repos\TestTeamCity\TeamCityDemo\obj\Debug\TeamCityDemo.pdb
+E:\Projects\Git\Repos\TestTeamCity\TeamCityDemo\obj\Debug\TeamCityDemo.csprojResolveAssemblyReference.cache
